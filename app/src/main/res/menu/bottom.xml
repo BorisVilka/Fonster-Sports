@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Sport"
+        android:id="@+id/sportFragment"
+        android:icon="@drawable/sport"
+        app:showAsAction="always" />
+
+    <item android:title="Top"
+        android:id="@+id/topFragment"
+        android:icon="@drawable/top"
+        app:showAsAction="always" />
+
+    <item android:title="Leagues"
+        android:id="@+id/leaguesFragment"
+        android:icon="@drawable/leagues"
+        app:showAsAction="always" />
+</menu>
